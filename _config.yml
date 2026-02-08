@@ -1,20 +1,12 @@
 title: "Sultan Taj"
 description: "Welcome to my blog site!"
-url: "https://STaj55.github.io"
+url: "https://staj-55.github.io"
 baseurl: "/blogs"
-# If you are using a project site (not username.github.io), add:
-# baseurl: "/REPO"
 
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-minima:
-  skin: auto
-
 author:
   name: "Sultan Taj"
-
-header_pages:
-  - about.md
