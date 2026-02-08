@@ -1,10 +1,11 @@
 title: "Sultan Taj"
 description: "Welcome to my blog site!"
 url: "https://STaj55.github.io"
+baseurl: "/blogs"
 # If you are using a project site (not username.github.io), add:
 # baseurl: "/REPO"
 
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -13,7 +14,7 @@ minima:
   skin: auto
 
 author:
-  name: "Your Name"
+  name: "Sultan Taj"
 
 header_pages:
   - about.md
